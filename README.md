@@ -2,7 +2,7 @@
 
 <div>
 <h2 align="left">:high_brightness: About me:</h2>
-<p>I'm from Oregon, living in Portland. I am currently enrolled in a coding bootcamp working towards my full stack certification. While pursuing my certification I am also doing freelance work for a handful of private clients. </p>
+<p>I'm from Oregon, currently living in Portland. I am presently enrolled in a coding bootcamp working towards my full stack certification. While pursuing my certification I am also doing freelance work for a handful of private clients. </p>
 </div>
     
 <h2 align="left"> :chart_with_upwards_trend: Github stats:</h2>
