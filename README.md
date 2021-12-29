@@ -1,5 +1,4 @@
-
-![Light Purple and White Fashion Back to Business Landscape Banner](https://user-images.githubusercontent.com/93841858/147679473-f31017e6-8641-4404-963d-fcad625ef12f.png)
+![Light Purple and White Fashion Back to Business Landscape Banner (1)](https://user-images.githubusercontent.com/93841858/147681529-45f4ac3b-e4e2-4a18-87e2-ee1ee7892c47.png)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vsibley&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
