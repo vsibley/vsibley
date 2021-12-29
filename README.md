@@ -1,5 +1,3 @@
-[![MasterHead](file:///Users/vanessasibley/Downloads/Light%20Purple%20and%20White%20Fashion%20Back%20to%20Business%20Landscape%20Banner.png)](https://github.com/vsibley
-  <img align="right" alt="Coding" width="400" src="file:///Users/vanessasibley/Downloads/Light%20Purple%20and%20White%20Fashion%20Back%20to%20Business%20Landscape%20Banner.png">
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vsibley&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
