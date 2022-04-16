@@ -2,8 +2,8 @@
  -->
 
 <h1 align="left">Hello, I'm Vanessa 👋🏽</h1>
-<p>I'm a Front-End Developer with a passion for React 🫶🏼 
- When I'm not coding I like to write on my persoal tech <a href='https://www.tech-ness.com/'>blog</a>. 
+<p>I'm a Front-End Developer with a passion for React 🫶🏼  </p> 
+<p>When I'm not coding I like to write on my persoal tech <a href='https://www.tech-ness.com/'>blog</a>.</p>
 </p><p>If you'd like to take a look at some of my work you can head over to my <a href='https://www.vanessa-sibley.com/'>portfolio</a> page.</p>
 
 
