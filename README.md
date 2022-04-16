@@ -1,5 +1,5 @@
-![Light Purple and White Fashion Back to Business Landscape Banner (1)](https://user-images.githubusercontent.com/93841858/147681529-45f4ac3b-e4e2-4a18-87e2-ee1ee7892c47.png)
-
+<!-- ![Light Purple and White Fashion Back to Business Landscape Banner (1)](https://user-images.githubusercontent.com/93841858/147681529-45f4ac3b-e4e2-4a18-87e2-ee1ee7892c47.png)
+ -->
 
 <h2 align="left">:high_brightness: About me:</h2>
 </div>
