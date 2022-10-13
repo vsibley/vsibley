@@ -2,8 +2,12 @@
  -->
 
 <h1 align="left">Hello, I'm Vanessa 👋🏽</h1>
-<p>I'm a Front-End Developer with a passion for React 🫶🏼  </p> 
-</p><p>If you'd like to take a look at some of my work you can head over to my <a href='https://www.vanessa-sibley.com/'>portfolio</a> page.</p>
+<p>Software engineer dedicated to being a positive force for those I interact with in my professional and personal life ✨ Possessing a proven ability to deliver quality results in both independent and collaborative settings. I am dedicated to engineering high performance, intuitive applications and finding creative solutions for challenging engineering problems in collaborative team environments. Working through 1000+ hours of coding material, which focused on JavaScript, React and Node.JS. I was later invited to return as a teaching mentor. As a technical mentor, I deepened my technical knowledge by supervising groups of 4-5 students each week over a two month period. I am now eager to obtain a position in an engineering role that allows me to leverage my fast learning capabilities along with my current technical skills and excitement to learn new technologies. </p>
+
+
+<p>👀 If you'd like to take a look at some of my work you can head over to my <a href='https://www.vanessa-sibley.com/'>portfolio</a> page.</p>
+<p> 📝 Check out my <a href='https://docs.google.com/document/d/1HblmZr2nwrAXmCSvjLQwo8WrVqtExyayen9CqjNYfB8/edit?usp=sharing' alt='vanessas resume' target='_blank'> resume </a> here.
+ </p>
 
 
 
