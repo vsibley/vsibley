@@ -6,7 +6,7 @@
 
 
 <p>👀 If you'd like to take a look at some of my work you can head over to my <a href='https://www.vanessa-sibley.com/'>portfolio</a> page.</p>
-<p> 📝 Check out my <a href='https://docs.google.com/document/d/1HblmZr2nwrAXmCSvjLQwo8WrVqtExyayen9CqjNYfB8/edit?usp=sharing' alt='vanessas resume' target='_blank'> resume </a> here.
+<p> 📝 Check out my <a href='https://drive.google.com/file/d/1WXvIC-gkqk0M-PKDW7GnvoNoDdP0H8F3/view?usp=sharing' alt='vanessas resume' target='_blank'> resume </a> here.
  </p>
 
 
