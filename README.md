@@ -15,7 +15,7 @@
 <h2 align="left">Fun Facts About Me 🤙🏽 </h2>
 <ul>
  <li> I drink an excessive amount of coffee.</li>
- <li> I'm American Samoan and Puerto Rican and a first gen Dev 🧑🏽‍💻</li>
+ <li> I'm American Samoan and Puerto Rican🧑🏽‍💻</li>
  <li> I love to meet new people, send me a connect request on <a href='https://www.linkedin.com/in/vanessa-sibley/'>Linkedin!</a></li>
  <li> I enjoy a good Podcast or Audiobook.</li>
  </ul>
